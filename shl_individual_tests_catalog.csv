@@ -1,0 +1,186 @@
+name,url,remote_testing,adaptive,test_types,id,all_text
+Global Skills Development Report,https://www.shl.com/products/product-catalog/view/global-skills-development-report/,True,False,"A,E,B,C,D,P",0,"Global Skills Development Report | Test types: A,E,B,C,D,P | Remote testing available"
+.NET Framework 4.5,https://www.shl.com/products/product-catalog/view/net-framework-4-5/,True,True,K,1,.NET Framework 4.5 | Test types: K | Remote testing available | Adaptive / IRT
+.NET MVC (New),https://www.shl.com/products/product-catalog/view/net-mvc-new/,True,False,K,2,.NET MVC (New) | Test types: K | Remote testing available
+.NET MVVM (New),https://www.shl.com/products/product-catalog/view/net-mvvm-new/,True,False,K,3,.NET MVVM (New) | Test types: K | Remote testing available
+.NET WCF (New),https://www.shl.com/products/product-catalog/view/net-wcf-new/,True,False,K,4,.NET WCF (New) | Test types: K | Remote testing available
+.NET WPF (New),https://www.shl.com/products/product-catalog/view/net-wpf-new/,True,False,K,5,.NET WPF (New) | Test types: K | Remote testing available
+.NET XAML (New),https://www.shl.com/products/product-catalog/view/net-xaml-new/,True,False,K,6,.NET XAML (New) | Test types: K | Remote testing available
+Accounts Payable (New),https://www.shl.com/products/product-catalog/view/accounts-payable-new/,True,False,K,7,Accounts Payable (New) | Test types: K | Remote testing available
+Accounts Payable Simulation (New),https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/,True,False,S,8,Accounts Payable Simulation (New) | Test types: S | Remote testing available
+Accounts Receivable (New),https://www.shl.com/products/product-catalog/view/accounts-receivable-new/,True,False,K,9,Accounts Receivable (New) | Test types: K | Remote testing available
+Accounts Receivable Simulation (New),https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/,True,False,S,10,Accounts Receivable Simulation (New) | Test types: S | Remote testing available
+ADO.NET (New),https://www.shl.com/products/product-catalog/view/ado-net-new/,True,False,K,11,ADO.NET (New) | Test types: K | Remote testing available
+Apache Hadoop Extensions (New),https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/,True,False,K,12,Apache Hadoop Extensions (New) | Test types: K | Remote testing available
+Apache HBase (New),https://www.shl.com/products/product-catalog/view/apache-hbase-new/,True,False,K,13,Apache HBase (New) | Test types: K | Remote testing available
+Apache Hive (New),https://www.shl.com/products/product-catalog/view/apache-hive-new/,True,False,K,14,Apache Hive (New) | Test types: K | Remote testing available
+Apache Kafka (New),https://www.shl.com/products/product-catalog/view/apache-kafka-new/,True,False,K,15,Apache Kafka (New) | Test types: K | Remote testing available
+Apache Pig (New),https://www.shl.com/products/product-catalog/view/apache-pig-new/,True,False,K,16,Apache Pig (New) | Test types: K | Remote testing available
+Apache Spark (New),https://www.shl.com/products/product-catalog/view/apache-spark-new/,True,False,K,17,Apache Spark (New) | Test types: K | Remote testing available
+ASP .NET with C# (New),https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/,True,False,K,18,ASP .NET with C# (New) | Test types: K | Remote testing available
+ASP.NET 4.5,https://www.shl.com/products/product-catalog/view/asp-net-4-5/,True,True,K,19,ASP.NET 4.5 | Test types: K | Remote testing available | Adaptive / IRT
+Assessment and Development Center Exercises,https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/,True,False,E,20,Assessment and Development Center Exercises | Test types: E | Remote testing available
+Automata - Fix (New),https://www.shl.com/products/product-catalog/view/automata-fix-new/,True,False,S,21,Automata - Fix (New) | Test types: S | Remote testing available
+Automata - SQL (New),https://www.shl.com/products/product-catalog/view/automata-sql-new/,True,False,S,22,Automata - SQL (New) | Test types: S | Remote testing available
+Automata (New),https://www.shl.com/products/product-catalog/view/automata-new/,True,False,S,23,Automata (New) | Test types: S | Remote testing available
+BizTalk (New),https://www.shl.com/products/product-catalog/view/biztalk-new/,True,False,K,24,BizTalk (New) | Test types: K | Remote testing available
+Business Communication (adaptive),https://www.shl.com/products/product-catalog/view/business-communication-adaptive/,True,True,K,25,Business Communication (adaptive) | Test types: K | Remote testing available | Adaptive / IRT
+Business Communications,https://www.shl.com/products/product-catalog/view/business-communications/,True,False,K,26,Business Communications | Test types: K | Remote testing available
+C Programming (New),https://www.shl.com/products/product-catalog/view/c-programming-new/,True,False,K,27,C Programming (New) | Test types: K | Remote testing available
+C# Programming (New),https://www.shl.com/products/product-catalog/view/c-programming-new-4039/,True,False,K,28,C# Programming (New) | Test types: K | Remote testing available
+C++ Programming (New),https://www.shl.com/products/product-catalog/view/c-programming-new-4122/,True,False,K,29,C++ Programming (New) | Test types: K | Remote testing available
+Cardiology and Diabetes Management (New),https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/,True,False,K,30,Cardiology and Diabetes Management (New) | Test types: K | Remote testing available
+Ceramic Engineering (New),https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/,True,False,K,31,Ceramic Engineering (New) | Test types: K | Remote testing available
+Chemical Engineering (New),https://www.shl.com/products/product-catalog/view/chemical-engineering-new/,True,False,K,32,Chemical Engineering (New) | Test types: K | Remote testing available
+Cisco AppDynamics (New),https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/,True,False,K,33,Cisco AppDynamics (New) | Test types: K | Remote testing available
+Civil Engineering (New),https://www.shl.com/products/product-catalog/view/civil-engineering-new/,True,False,K,34,Civil Engineering (New) | Test types: K | Remote testing available
+Cloud Computing (New),https://www.shl.com/products/product-catalog/view/cloud-computing-new/,True,False,K,35,Cloud Computing (New) | Test types: K | Remote testing available
+Data Entry (New),https://www.shl.com/products/product-catalog/view/data-entry-new/,True,False,S,36,Data Entry (New) | Test types: S | Remote testing available
+Data Entry Alphanumeric Split Screen - US,https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/,True,False,K,37,Data Entry Alphanumeric Split Screen - US | Test types: K | Remote testing available
+Data Entry Numeric Split Screen - US,https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/,True,False,K,38,Data Entry Numeric Split Screen - US | Test types: K | Remote testing available
+Data Entry Ten Key Split Screen,https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/,True,False,K,39,Data Entry Ten Key Split Screen | Test types: K | Remote testing available
+Data Science (New),https://www.shl.com/products/product-catalog/view/data-science-new/,True,False,K,40,Data Science (New) | Test types: K | Remote testing available
+Data Warehousing Concepts,https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/,True,True,K,41,Data Warehousing Concepts | Test types: K | Remote testing available | Adaptive / IRT
+Dependability and Safety Instrument (DSI),https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/,True,False,P,42,Dependability and Safety Instrument (DSI) | Test types: P | Remote testing available
+Dermatology (New),https://www.shl.com/products/product-catalog/view/dermatology-new/,True,False,K,43,Dermatology (New) | Test types: K | Remote testing available
+Desktop Support (New),https://www.shl.com/products/product-catalog/view/desktop-support-new/,True,False,K,44,Desktop Support (New) | Test types: K | Remote testing available
+Digital Advertising (New),https://www.shl.com/products/product-catalog/view/digital-advertising-new/,True,False,K,45,Digital Advertising (New) | Test types: K | Remote testing available
+Digital Readiness Development Report - IC,https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/,True,False,P,46,Digital Readiness Development Report - IC | Test types: P | Remote testing available
+Digital Readiness Development Report - Manager,https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/,True,False,P,47,Digital Readiness Development Report - Manager | Test types: P | Remote testing available
+Docker (New),https://www.shl.com/products/product-catalog/view/docker-new/,True,False,K,48,Docker (New) | Test types: K | Remote testing available
+Dojo (New),https://www.shl.com/products/product-catalog/view/dojo-new/,True,False,K,49,Dojo (New) | Test types: K | Remote testing available
+Drupal (New),https://www.shl.com/products/product-catalog/view/drupal-new/,True,False,K,50,Drupal (New) | Test types: K | Remote testing available
+DSI v1.1 Interpretation Report,https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/,True,False,P,51,DSI v1.1 Interpretation Report | Test types: P | Remote testing available
+Econometrics (New),https://www.shl.com/products/product-catalog/view/econometrics-new/,True,False,K,52,Econometrics (New) | Test types: K | Remote testing available
+Economics (New),https://www.shl.com/products/product-catalog/view/economics-new/,True,False,K,53,Economics (New) | Test types: K | Remote testing available
+Electrical and Electronics Engineering (New),https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/,True,False,K,54,Electrical and Electronics Engineering (New) | Test types: K | Remote testing available
+Electrical Engineering (New),https://www.shl.com/products/product-catalog/view/electrical-engineering-new/,True,False,K,55,Electrical Engineering (New) | Test types: K | Remote testing available
+Electronics & Telecommunications Engineering (New),https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/,True,False,K,56,Electronics & Telecommunications Engineering (New) | Test types: K | Remote testing available
+Electronics and Embedded Systems Engineering (New),https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/,True,False,K,57,Electronics and Embedded Systems Engineering (New) | Test types: K | Remote testing available
+Electronics and Semiconductor Engineering (New),https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/,True,False,K,58,Electronics and Semiconductor Engineering (New) | Test types: K | Remote testing available
+English Comprehension (New),https://www.shl.com/products/product-catalog/view/english-comprehension-new/,True,False,K,59,English Comprehension (New) | Test types: K | Remote testing available
+Enterprise Java Beans (New),https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/,True,False,K,60,Enterprise Java Beans (New) | Test types: K | Remote testing available
+Enterprise Leadership Report 1.0,https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/,True,False,P,61,Enterprise Leadership Report 1.0 | Test types: P | Remote testing available
+Enterprise Leadership Report 2.0,https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/,True,False,P,62,Enterprise Leadership Report 2.0 | Test types: P | Remote testing available
+Entry Level Cashier Solution,https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/,True,False,"C,P",63,"Entry Level Cashier Solution | Test types: C,P | Remote testing available"
+Entry Level Customer Serv-Retail & Contact Center,https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/,True,False,"P,C",64,"Entry Level Customer Serv-Retail & Contact Center | Test types: P,C | Remote testing available"
+Entry Level Customer Service (General) Solution,https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/,True,False,"C,P",65,"Entry Level Customer Service (General) Solution | Test types: C,P | Remote testing available"
+Entry Level Hotel Front Desk Solution,https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/,True,False,"C,P",66,"Entry Level Hotel Front Desk Solution | Test types: C,P | Remote testing available"
+Entry Level Sales Solution,https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/,True,False,"C,P",67,"Entry Level Sales Solution | Test types: C,P | Remote testing available"
+Entry Level Technical Support Solution,https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/,True,False,"P,C",68,"Entry Level Technical Support Solution | Test types: P,C | Remote testing available"
+ETL Testing (New),https://www.shl.com/products/product-catalog/view/etl-testing-new/,True,False,K,69,ETL Testing (New) | Test types: K | Remote testing available
+Executive Scenarios,https://www.shl.com/products/product-catalog/view/executive-scenarios/,True,False,B,70,Executive Scenarios | Test types: B | Remote testing available
+Executive Scenarios Narrative Report,https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/,True,False,B,71,Executive Scenarios Narrative Report | Test types: B | Remote testing available
+HiPo Assessment Report 1.0,https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/,True,False,"C,P",72,"HiPo Assessment Report 1.0 | Test types: C,P | Remote testing available"
+HiPo Assessment Report 2.0,https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/,True,False,"C,P",73,"HiPo Assessment Report 2.0 | Test types: C,P | Remote testing available"
+HiPo Unlocking Potential Report 2.0,https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/,True,False,C,74,HiPo Unlocking Potential Report 2.0 | Test types: C | Remote testing available
+Housekeeping (New),https://www.shl.com/products/product-catalog/view/housekeeping-new/,True,False,K,75,Housekeeping (New) | Test types: K | Remote testing available
+HTML/CSS (New),https://www.shl.com/products/product-catalog/view/htmlcss-new/,True,False,K,76,HTML/CSS (New) | Test types: K | Remote testing available
+HTML5 (New),https://www.shl.com/products/product-catalog/view/html5-new/,True,False,K,77,HTML5 (New) | Test types: K | Remote testing available
+Human Resources (New),https://www.shl.com/products/product-catalog/view/human-resources-new/,True,False,K,78,Human Resources (New) | Test types: K | Remote testing available
+IBM DataStage (New),https://www.shl.com/products/product-catalog/view/ibm-datastage-new/,True,False,K,79,IBM DataStage (New) | Test types: K | Remote testing available
+IBM Sterling Order Management System (New),https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/,True,False,K,80,IBM Sterling Order Management System (New) | Test types: K | Remote testing available
+Industrial Engineering (New),https://www.shl.com/products/product-catalog/view/industrial-engineering-new/,True,False,K,81,Industrial Engineering (New) | Test types: K | Remote testing available
+Informatica (Architecture) (New),https://www.shl.com/products/product-catalog/view/informatica-architecture-new/,True,False,K,82,Informatica (Architecture) (New) | Test types: K | Remote testing available
+Informatica (Developer) (New),https://www.shl.com/products/product-catalog/view/informatica-developer-new/,True,False,K,83,Informatica (Developer) (New) | Test types: K | Remote testing available
+Jenkins (New),https://www.shl.com/products/product-catalog/view/jenkins-new/,True,False,K,84,Jenkins (New) | Test types: K | Remote testing available
+Job Control Language (New),https://www.shl.com/products/product-catalog/view/job-control-language-new/,True,False,K,85,Job Control Language (New) | Test types: K | Remote testing available
+jQuery (New),https://www.shl.com/products/product-catalog/view/jquery-new/,True,False,K,86,jQuery (New) | Test types: K | Remote testing available
+Kubernetes (New),https://www.shl.com/products/product-catalog/view/kubernetes-new/,True,False,K,87,Kubernetes (New) | Test types: K | Remote testing available
+Linux Administration (New),https://www.shl.com/products/product-catalog/view/linux-administration-new/,True,False,K,88,Linux Administration (New) | Test types: K | Remote testing available
+Linux Operating System,https://www.shl.com/products/product-catalog/view/linux-operating-system/,True,False,K,89,Linux Operating System | Test types: K | Remote testing available
+Linux Programming (General),https://www.shl.com/products/product-catalog/view/linux-programming-general/,True,True,K,90,Linux Programming (General) | Test types: K | Remote testing available | Adaptive / IRT
+Load Runner (New),https://www.shl.com/products/product-catalog/view/load-runner-new/,True,False,K,91,Load Runner (New) | Test types: K | Remote testing available
+Management Scenarios,https://www.shl.com/products/product-catalog/view/management-scenarios/,True,False,B,92,Management Scenarios | Test types: B | Remote testing available
+Managerial Scenarios Candidate Report,https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/,True,False,B,93,Managerial Scenarios Candidate Report | Test types: B | Remote testing available
+Managerial Scenarios Narrative Report,https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/,True,False,B,94,Managerial Scenarios Narrative Report | Test types: B | Remote testing available
+Managerial Scenarios Profile Report,https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/,True,False,B,95,Managerial Scenarios Profile Report | Test types: B | Remote testing available
+Microsoft Windows Server 2012 Administration,https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/,True,True,K,96,Microsoft Windows Server 2012 Administration | Test types: K | Remote testing available | Adaptive / IRT
+Microsoft Word 365 - Essentials (New),https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/,True,False,"K,S",97,"Microsoft Word 365 - Essentials (New) | Test types: K,S | Remote testing available"
+Microsoft Word 365 (New),https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/,True,False,"S,K",98,"Microsoft Word 365 (New) | Test types: S,K | Remote testing available"
+Mineral Engineering (New),https://www.shl.com/products/product-catalog/view/mineral-engineering-new/,True,False,K,99,Mineral Engineering (New) | Test types: K | Remote testing available
+Mining Engineering (New),https://www.shl.com/products/product-catalog/view/mining-engineering-new/,True,False,K,100,Mining Engineering (New) | Test types: K | Remote testing available
+Mobility (New),https://www.shl.com/products/product-catalog/view/mobility-new/,True,False,K,101,Mobility (New) | Test types: K | Remote testing available
+Molecular Biology (New),https://www.shl.com/products/product-catalog/view/molecular-biology-new/,True,False,K,102,Molecular Biology (New) | Test types: K | Remote testing available
+MongoDB (New),https://www.shl.com/products/product-catalog/view/mongodb-new/,True,False,K,103,MongoDB (New) | Test types: K | Remote testing available
+Motivation Questionnaire MQM5,https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/,True,False,P,104,Motivation Questionnaire MQM5 | Test types: P | Remote testing available
+MQ Candidate Motivation Report,https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/,True,False,P,105,MQ Candidate Motivation Report | Test types: P | Remote testing available
+MQ Employee Motivation Report,https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/,True,False,P,106,MQ Employee Motivation Report | Test types: P | Remote testing available
+MQ Motivation Report Pack,https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/,True,False,P,107,MQ Motivation Report Pack | Test types: P | Remote testing available
+Occupational Personality Questionnaire OPQ32r,https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/,True,False,P,108,Occupational Personality Questionnaire OPQ32r | Test types: P | Remote testing available
+Operations Management (New),https://www.shl.com/products/product-catalog/view/operations-management-new/,True,False,K,109,Operations Management (New) | Test types: K | Remote testing available
+OPQ Candidate Plus Report,https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/,True,False,P,110,OPQ Candidate Plus Report | Test types: P | Remote testing available
+OPQ Candidate Report 2.0,https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/,True,False,P,111,OPQ Candidate Report 2.0 | Test types: P | Remote testing available
+OPQ Emotional Intelligence Report,https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/,True,False,P,112,OPQ Emotional Intelligence Report | Test types: P | Remote testing available
+OPQ Leadership Report,https://www.shl.com/products/product-catalog/view/opq-leadership-report/,True,False,P,113,OPQ Leadership Report | Test types: P | Remote testing available
+OPQ Manager Plus Report,https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/,True,False,P,114,OPQ Manager Plus Report | Test types: P | Remote testing available
+OPQ Manager Plus Report 2.0,https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/,True,False,P,115,OPQ Manager Plus Report 2.0 | Test types: P | Remote testing available
+OPQ Maximising your Learning Report,https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/,True,False,P,116,OPQ Maximising your Learning Report | Test types: P | Remote testing available
+OPQ MQ Sales Report,https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/,True,False,P,117,OPQ MQ Sales Report | Test types: P | Remote testing available
+OPQ Premium Plus Report,https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/,True,False,P,118,OPQ Premium Plus Report | Test types: P | Remote testing available
+OPQ Premium Plus Report 2.0,https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/,True,False,P,119,OPQ Premium Plus Report 2.0 | Test types: P | Remote testing available
+Oracle DBA (Advanced Level) (New),https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/,True,False,K,120,Oracle DBA (Advanced Level) (New) | Test types: K | Remote testing available
+Oracle DBA (Entry Level) (New),https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/,True,False,K,121,Oracle DBA (Entry Level) (New) | Test types: K | Remote testing available
+Oracle PL/SQL (New),https://www.shl.com/products/product-catalog/view/oracle-plsql-new/,True,False,K,122,Oracle PL/SQL (New) | Test types: K | Remote testing available
+Oracle WebLogic Server (New),https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/,True,False,K,123,Oracle WebLogic Server (New) | Test types: K | Remote testing available
+Organic Chemistry (New),https://www.shl.com/products/product-catalog/view/organic-chemistry-new/,True,False,K,124,Organic Chemistry (New) | Test types: K | Remote testing available
+Paint Technology (New),https://www.shl.com/products/product-catalog/view/paint-technology-new/,True,False,K,125,Paint Technology (New) | Test types: K | Remote testing available
+Pediatrics (New),https://www.shl.com/products/product-catalog/view/pediatrics-new/,True,False,K,126,Pediatrics (New) | Test types: K | Remote testing available
+Pega Development (New),https://www.shl.com/products/product-catalog/view/pega-development-new/,True,False,K,127,Pega Development (New) | Test types: K | Remote testing available
+Perl (New),https://www.shl.com/products/product-catalog/view/perl-new/,True,False,K,128,Perl (New) | Test types: K | Remote testing available
+Petrochemical Engineering (New),https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/,True,False,K,129,Petrochemical Engineering (New) | Test types: K | Remote testing available
+Petroleum Engineering (New),https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/,True,False,K,130,Petroleum Engineering (New) | Test types: K | Remote testing available
+Pharmaceutical Analysis (New),https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/,True,False,K,131,Pharmaceutical Analysis (New) | Test types: K | Remote testing available
+RemoteWorkQ Participant Report,https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/,True,False,C,132,RemoteWorkQ Participant Report | Test types: C | Remote testing available
+RESTful Web Services (New),https://www.shl.com/products/product-catalog/view/restful-web-services-new/,True,False,K,133,RESTful Web Services (New) | Test types: K | Remote testing available
+Retail Sales and Service Simulation,https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/,True,False,"B,K,S,A",134,"Retail Sales and Service Simulation | Test types: B,K,S,A | Remote testing available"
+Reviewing Forms - US (R1),https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/,True,False,K,135,Reviewing Forms - US (R1) | Test types: K | Remote testing available
+Ruby (New),https://www.shl.com/products/product-catalog/view/ruby-new/,True,False,K,136,Ruby (New) | Test types: K | Remote testing available
+Ruby on Rails (New),https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/,True,False,K,137,Ruby on Rails (New) | Test types: K | Remote testing available
+Sales & Service Phone Simulation,https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/,True,False,"S,B",138,"Sales & Service Phone Simulation | Test types: S,B | Remote testing available"
+Sales & Service Phone Solution,https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/,True,False,"B,P,S",139,"Sales & Service Phone Solution | Test types: B,P,S | Remote testing available"
+Sales Interview Guide,https://www.shl.com/products/product-catalog/view/sales-interview-guide/,True,False,"P,P",140,"Sales Interview Guide | Test types: P,P | Remote testing available"
+Sales Profiler Cards,https://www.shl.com/products/product-catalog/view/sales-profiler-cards/,True,False,P,141,Sales Profiler Cards | Test types: P | Remote testing available
+Sales Transformation 1.0 - Individual Contributor,https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/,True,False,P,142,Sales Transformation 1.0 - Individual Contributor | Test types: P | Remote testing available
+Sales Transformation 2.0 - Individual Contributor,https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/,True,False,P,143,Sales Transformation 2.0 - Individual Contributor | Test types: P | Remote testing available
+Search Engine Optimization (New),https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/,True,False,K,144,Search Engine Optimization (New) | Test types: K | Remote testing available
+Selenium (New),https://www.shl.com/products/product-catalog/view/selenium-new/,True,False,K,145,Selenium (New) | Test types: K | Remote testing available
+Shell Scripting (New),https://www.shl.com/products/product-catalog/view/shell-scripting-new/,True,False,K,146,Shell Scripting (New) | Test types: K | Remote testing available
+SHL Verify Interactive - Inductive Reasoning,https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/,True,True,"A,S",147,"SHL Verify Interactive - Inductive Reasoning | Test types: A,S | Remote testing available | Adaptive / IRT"
+SHL Verify Interactive – Deductive Reasoning,https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/,True,True,"A,S",148,"SHL Verify Interactive – Deductive Reasoning | Test types: A,S | Remote testing available | Adaptive / IRT"
+SHL Verify Interactive – Numerical Reasoning,https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/,True,True,"A,S",149,"SHL Verify Interactive – Numerical Reasoning | Test types: A,S | Remote testing available | Adaptive / IRT"
+SHL Verify Interactive G+,https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/,True,True,A,150,SHL Verify Interactive G+ | Test types: A | Remote testing available | Adaptive / IRT
+SHL Verify Interactive Numerical Calculation,https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/,True,True,A,151,SHL Verify Interactive Numerical Calculation | Test types: A | Remote testing available | Adaptive / IRT
+Siebel Development (New),https://www.shl.com/products/product-catalog/view/siebel-development-new/,True,False,K,152,Siebel Development (New) | Test types: K | Remote testing available
+Smart Interview Live,https://www.shl.com/products/product-catalog/view/smart-interview-live/,True,False,P,153,Smart Interview Live | Test types: P | Remote testing available
+Smart Interview Live Coding,https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/,True,False,K,154,Smart Interview Live Coding | Test types: K | Remote testing available
+Smart Interview On Demand,https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/,True,False,P,155,Smart Interview On Demand | Test types: P | Remote testing available
+Struts (New),https://www.shl.com/products/product-catalog/view/struts-new/,True,False,K,156,Struts (New) | Test types: K | Remote testing available
+SVAR - Spoken English (AUS),https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/,True,False,S,157,SVAR - Spoken English (AUS) | Test types: S | Remote testing available
+SVAR - Spoken English (Indian Accent)  (New),https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/,True,False,S,158,SVAR - Spoken English (Indian Accent)  (New) | Test types: S | Remote testing available
+SVAR - Spoken English (U.K.),https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/,True,False,S,159,SVAR - Spoken English (U.K.) | Test types: S | Remote testing available
+SVAR - Spoken English (US)  (New),https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/,True,False,S,160,SVAR - Spoken English (US)  (New) | Test types: S | Remote testing available
+SVAR - Spoken French (Canadian) (New),https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/,True,False,S,161,SVAR - Spoken French (Canadian) (New) | Test types: S | Remote testing available
+SVAR - Spoken French (European) (New),https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/,True,False,S,162,SVAR - Spoken French (European) (New) | Test types: S | Remote testing available
+SVAR - Spoken Spanish (Castilian) (New),https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/,True,False,S,163,SVAR - Spoken Spanish (Castilian) (New) | Test types: S | Remote testing available
+SVAR - Spoken Spanish (North American) (New),https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/,True,False,S,164,SVAR - Spoken Spanish (North American) (New) | Test types: S | Remote testing available
+Swing (New),https://www.shl.com/products/product-catalog/view/swing-new/,True,False,K,165,Swing (New) | Test types: K | Remote testing available
+Tableau (New),https://www.shl.com/products/product-catalog/view/tableau-new/,True,False,K,166,Tableau (New) | Test types: K | Remote testing available
+Telecommunications Engineering (New),https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/,True,False,K,167,Telecommunications Engineering (New) | Test types: K | Remote testing available
+Verify Interactive Process Monitoring,https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/,True,False,A,168,Verify Interactive Process Monitoring | Test types: A | Remote testing available
+Virtual Assessment and Development Centers,https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/,True,False,P,169,Virtual Assessment and Development Centers | Test types: P | Remote testing available
+Visual Basic for Applications (New),https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/,True,False,K,170,Visual Basic for Applications (New) | Test types: K | Remote testing available
+Visual Comparison - UK,https://www.shl.com/products/product-catalog/view/visual-comparison-uk/,True,False,K,171,Visual Comparison - UK | Test types: K | Remote testing available
+Visual Comparison - US,https://www.shl.com/products/product-catalog/view/visual-comparison-us/,True,False,K,172,Visual Comparison - US | Test types: K | Remote testing available
+VLSI and Embedded Systems (New),https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/,True,False,K,173,VLSI and Embedded Systems (New) | Test types: K | Remote testing available
+What Is The Value - US,https://www.shl.com/products/product-catalog/view/what-is-the-value-us/,True,True,K,174,What Is The Value - US | Test types: K | Remote testing available | Adaptive / IRT
+Workplace Administration Skills (New),https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/,True,False,K,175,Workplace Administration Skills (New) | Test types: K | Remote testing available
+Workplace Health and Safety (New),https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/,True,False,K,176,Workplace Health and Safety (New) | Test types: K | Remote testing available
+WriteX - Email Writing (Customer Service) (New),https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/,True,False,S,177,WriteX - Email Writing (Customer Service) (New) | Test types: S | Remote testing available
+WriteX - Email Writing (Managerial) (New),https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/,True,False,S,178,WriteX - Email Writing (Managerial) (New) | Test types: S | Remote testing available
+WriteX - Email Writing (Sales) (New),https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/,True,False,"B,S",179,"WriteX - Email Writing (Sales) (New) | Test types: B,S | Remote testing available"
+Written English v1,https://www.shl.com/products/product-catalog/view/written-english-v1/,True,True,K,180,Written English v1 | Test types: K | Remote testing available | Adaptive / IRT
+Written Spanish,https://www.shl.com/products/product-catalog/view/written-spanish/,True,True,K,181,Written Spanish | Test types: K | Remote testing available | Adaptive / IRT
+Zabbix (New),https://www.shl.com/products/product-catalog/view/zabbix-new/,True,False,K,182,Zabbix (New) | Test types: K | Remote testing available
+360 Digital Report,https://www.shl.com/products/product-catalog/view/360-digital-report/,True,False,D,183,360 Digital Report | Test types: D | Remote testing available
+360° Multi-Rater Feedback System (MFS),https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/,True,False,"D,P",184,"360° Multi-Rater Feedback System (MFS) | Test types: D,P | Remote testing available"
