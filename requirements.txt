@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pandas
-numpy
-torch==2.2.0
-sentence-transformers==2.2.2
-gradio==3.50.2
-scikit-learn
-requests
