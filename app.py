@@ -1,47 +1,45 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 import pandas as pd
-import torch
-from sentence_transformers import  util
+import numpy as np
 from sentence_transformers_lite import SentenceTransformerLite
+from sklearn.metrics.pairwise import cosine_similarity
 
 app = FastAPI()
 
 # Load catalog
-df = pd.read_csv("../data/shl_catalog_full_details.csv")
+df = pd.read_csv("./data/shl_catalog_full_details.csv")
 
-# Load model
+# Load lite model (no torch needed)
 model = SentenceTransformerLite("all-MiniLM-L6-v2")
 
-# Load embeddings
-embeddings = torch.load("./embeddings/catalog_embeddings.pt")
-embeddings = embeddings.cpu()
+# Load embeddings (saved earlier in npy format)
+catalog_embeddings = np.load("./embeddings/catalog_embeddings.npy")
 
 class Query(BaseModel):
     query: str
     top_k: int = 5
 
 @app.get("/health")
-def health_check():
+def health():
     return {"status": "healthy"}
 
 @app.post("/recommend")
 def recommend(q: Query):
-    query = q.query
-    top_k = q.top_k
-
-    q_emb = model.encode([query], convert_to_tensor=True)
-    scores = util.cos_sim(q_emb, embeddings)[0].cpu().numpy()
+    q_emb = model.encode([q.query])
+    scores = cosine_similarity(q_emb, catalog_embeddings)[0]
 
     df["score"] = scores
-    top = df.sort_values("score", ascending=False).head(top_k)
+    top = df.sort_values("score", ascending=False).head(q.top_k)
 
-    results = []
-    for _, row in top.iterrows():
-        results.append({
-            "name": row["name"],
-            "url": row["url"],
-            "score": float(row["score"])
-        })
-
-    return {"query": query, "results": results}
+    return {
+        "query": q.query,
+        "results": [
+            {
+                "name": row["name"],
+                "url": row["url"],
+                "score": float(row["score"])
+            }
+            for _, row in top.iterrows()
+        ]
+    }
