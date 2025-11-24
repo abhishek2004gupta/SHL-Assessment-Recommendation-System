@@ -2,7 +2,8 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import pandas as pd
 import torch
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import  util
+from sentence_transformers_lite import SentenceTransformerLite
 
 app = FastAPI()
 
@@ -10,7 +11,7 @@ app = FastAPI()
 df = pd.read_csv("../data/shl_catalog_full_details.csv")
 
 # Load model
-model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformerLite("all-MiniLM-L6-v2")
 
 # Load embeddings
 embeddings = torch.load("./embeddings/catalog_embeddings.pt")
