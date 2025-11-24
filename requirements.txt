@@ -1,8 +1,0 @@
-beautifulsoup4
-requests
-pandas
-numpy
-sentence-transformers
-torch
-gradio
-scikit-learn
